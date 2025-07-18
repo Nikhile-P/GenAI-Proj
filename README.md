@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/1fcf43d1-6d66-4679-b9f3-7d1cb7be1484
+
 # 🤖 Next Sentence Predictor
 
 \[Hugging Face LLM]  [Static Badge](https://img.shields.io/badge/!%5BProject%20Badge%5D(https%3A%2F%2Fimg.shields.io%2Fbadge%2FProject-Sentence_Predictor-blue))
